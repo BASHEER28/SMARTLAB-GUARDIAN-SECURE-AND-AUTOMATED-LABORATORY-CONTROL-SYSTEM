@@ -1,0 +1,2 @@
+# SMARTLAB-GUARDIAN-SECURE-AND-AUTOMATED-LABORATORY-CONTROL-SYSTEM
+SmartLab Guardian is an IoT-based laboratory security and automation system using the LPC2148 microcontroller. It provides password-based access, RTC-based lab time restrictions, keypad-controlled settings,(RC5-protocol) IR remote-based device control, and external interrupt-based emergency handling for improved laboratory safety and security.
